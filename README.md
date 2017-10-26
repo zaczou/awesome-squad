@@ -7,7 +7,7 @@ A reading list of resources dedicated to squad.
 Please feel free to contact [me](http://zaczou.github.io). Issues and PRs are also welcome
 
 
-## NEWS: Latest State-of-The-Art (01/06/2017
+## [[Leaderboard]]（https://rajpurkar.github.io/SQuAD-explorer/）
 
 ## Latest Papers
 
