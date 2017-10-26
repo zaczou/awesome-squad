@@ -17,5 +17,5 @@ Please feel free to contact [me](http://zaczou.github.io). Issues and PRs are al
   - **ReasoNet: Learning to Stop Reading in Machine Comprehension** [[paper]](https://arxiv.org/abs/1609.05284)
   - **Mnemonic Reader: Machine Comprehension with Iterative Aligning and Multi-hop Answer Pointing** [[paper]](https://arxiv.org/abs/1705.02798)
   - **Structural Embedding of Syntactic Trees for Machine Comprehension** [[paper]](https://arxiv.org/abs/1703.00572)
-  - **Bi-directional Attention Flow for Machine Comprehension** [[paper]](https://arxiv.org/abs/1611.01603) [[Tensorflow]](https://github.com/allenai/bi-att-flow)
-  
+  - **Bi-directional Attention Flow for Machine Comprehension** [[paper]](https://arxiv.org/abs/1611.01603) [[Tensorflow]](https://github.com/allenai/bi-att-flow) [[pytorch]](https://github.com/demiguo/bidaf-pytorch)
+
