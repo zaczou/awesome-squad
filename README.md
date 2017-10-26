@@ -11,7 +11,7 @@ Please feel free to contact [me](http://zaczou.github.io). Issues and PRs are al
 
 ## Latest Papers
 
-  - **R-NET: Machine Reading Comprehension with Self-matching Networks** [[Paper]](https://www.microsoft.com/en-us/research/publication/mrc/#) [[Code]](https://github.com/guotong1988/r-net)
+  - **R-NET: Machine Reading Comprehension with Self-matching Networks** [[Paper]](https://www.microsoft.com/en-us/research/publication/mrc/#) [[tensorflow]](https://github.com/minsangkim142/R-net) [[pytorch]](https://github.com/matthew-z/R-net)
   - **Dynamic Coattention Networks For Question Answering** [[paper]](https://arxiv.org/abs/1611.01604) [[Tensorflow]](https://github.com/marshmelloX/dynamic-coattention-network) [[Tensorflow]](https://github.com/xin-jin/SQuAD)
   - **MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension** [[paper]](https://arxiv.org/abs/1707.09098)
   - **ReasoNet: Learning to Stop Reading in Machine Comprehension** [[paper]](https://arxiv.org/abs/1609.05284)
